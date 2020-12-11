@@ -1,5 +1,5 @@
 package ModHello
 
 func ModHello() string {
-	return "Hello"
+	return "Hello Dear"
 }
