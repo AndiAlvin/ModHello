@@ -1,5 +1,5 @@
 package ModHello
 
-func ModHello() string {
-	return "Hello Dear"
+func ModHello(name string) string {
+	return "Hello" + name
 }
